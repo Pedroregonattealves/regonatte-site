@@ -2,3 +2,7 @@ body {
     color: wheat;
     background: darkred;
 }
+
+header{
+    border: solid 2px wheat;
+}
