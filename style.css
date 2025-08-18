@@ -1,8 +1,20 @@
 body {
     color: wheat;
     background: darkred;
+    margin: 0px ;
 }
 
 header{
-    border: solid 2px wheat;
+    border-bottom: solid 2px wheat;
+    padding: 20px;
+    font-size: 35px;
+}
+
+
+section{
+    background: rgb(185 18 27);
+    padding-bottom: 50px;
+    padding-top:50px ;
+    display:flex;
+    justify-content: center;
 }
