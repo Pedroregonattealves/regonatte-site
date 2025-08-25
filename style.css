@@ -4,6 +4,8 @@ body {
     margin: 0px ;
 }
 
+p{ text-align:start}
+
 header{
     border-bottom: solid 2px wheat;
     padding: 20px;
@@ -16,5 +18,5 @@ section{
     padding-bottom: 50px;
     padding-top:50px ;
     display:flex;
-    justify-content: center;
+    justify-content:flex-start;
 }
