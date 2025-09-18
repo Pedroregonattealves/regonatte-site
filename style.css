@@ -14,7 +14,7 @@ header{
 }
 
 
-section{
+.chamada{
     background: rgb(185 18 27);
     padding-bottom: 50px;
     padding-top:50px ;
@@ -38,3 +38,14 @@ p{
 img{
     height: 200px;
 }
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 30px;
+}
+
+ section{
+    padding-left: 20px;
+    padding-right: 20px;
+ }
